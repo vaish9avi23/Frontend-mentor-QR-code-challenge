@@ -54,11 +54,3 @@ body{
   transition: all 0.1s ease-in-out;
 }
 
-.link i {
-  padding-left: 7px;
-}
-
-.link:hover {
-  text-decoration: underline;
-  background-color: black;
-}
